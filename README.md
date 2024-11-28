@@ -1,4 +1,4 @@
-# Steps to Deploy
+# Steps followed to Deploy
 
 ## 1. Generate contract.wasm
 
